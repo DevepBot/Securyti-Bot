@@ -12,27 +12,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //Owner Setting
-global.owner = ['6283890422366'] //Owner Number
-global.ownernomer = "6283890422366" //Owner Number 02
-global.ownername = "Zakk." //Owner NMe
+global.owner = ['6282192838943'] //Owner Number
+global.ownernomer = "6282192838943" //Owner Number 02
+global.ownername = "Oreo Ganz." //Owner NMe
 global.ytname = "YouTube: https://www.youtube.com/@kizakixd" //YouTube Owner
-global.socialm = "GitHub: https://github.com/KiZakiXD" //Github Owner
+global.socialm = "GitHub: https://github.com/RaaBotz" //Github Owner
 global.location = "🇮🇩 Indonesia" //Country
 
 //Bot Setting
-global.botname = "Zex Simple WhatsApp Bot"
-global.ownernumber = '6283890422366'
+global.botname = "SECURITY GROUP"
+global.ownernumber = '6282192838943'
 global.ownername = 'Zakk.'
-global.ownerNumber = ["6283890422366@s.whatsapp.net"]
+global.ownerNumber = ["6282192838943@s.whatsapp.net"]
 global.ownerweb = "https://my.zey-id.xyz"
-global.websitex = "https://instagram.com/iamkizakixd"
+global.websitex = "https://instagram.com/mega_cpm_store"
 global.wagc = "https://chat.whatsapp.com/GMcv3SpmwOz9S6aQzYmUD1"
 global.themeemoji = '🚩'
-global.wm = "Follow Instagram : @iamkizakixd"
-global.botscript = 'https://www.youtube.com/@kizakixd' //script link
+global.wm = "Follow Instagram : @mega_cpm_store"
+global.botscript = 'ORDER OR SEWA' //script link
 global.packname = "Sticker By"
 global.author = "Zex Simple Bot WhatsApp"
-global.creator = "6283890422366@s.whatsapp.net"
+global.creator = "6282192838943@s.whatsapp.net"
 global.prefa = ['','!','.','#','&','`']
 global.hituet = 0
 global.apikeyai = '' //Apikey OpenAi Kalian
